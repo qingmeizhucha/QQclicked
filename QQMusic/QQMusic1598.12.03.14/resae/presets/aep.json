@@ -1,0 +1,888 @@
+{
+   "data" : [
+      {
+         "debug" : 0,
+         "description" : "智能Lite",
+         "filename" : "996-智能音效-智能.aep",
+         "fullname" : "智能音效",
+         "hot" : 0,
+         "iconPC" : "supersound_smart_background.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "智能",
+         "sid" : 996,
+         "top" : 1,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "500-全景环绕-全景.aep",
+         "fullname" : "全景环绕",
+         "hot" : 0,
+         "iconPC" : "supersound_surround_background.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "全景",
+         "sid" : 500,
+         "top" : 1,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "501-超重低音-超低.aep",
+         "fullname" : "超重低音",
+         "hot" : 0,
+         "iconPC" : "supersound_hyperbass_background.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "超低",
+         "sid" : 501,
+         "top" : 1,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "502-清澈人声-人声.aep",
+         "fullname" : "清澈人声",
+         "hot" : 0,
+         "iconPC" : "supersound_vocal_background.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "人声",
+         "sid" : 502,
+         "top" : 1,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "504-V3",
+         "filename" : "504-现场律动-现场.aep",
+         "fullname" : "现场律动",
+         "hot" : 0,
+         "iconPC" : "supersound_studio_background.png",
+         "ir" : {
+            "irs\\742156792c2f7c863b9d5cec1cd0622546a1f877.enc" : 1570744
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "现场",
+         "sid" : 504,
+         "top" : 1,
+         "version" : 3
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "503-温暖轻柔-轻柔.aep",
+         "fullname" : "温暖轻柔",
+         "hot" : 0,
+         "iconPC" : "supersound_warm_background.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "轻柔",
+         "sid" : 503,
+         "top" : 1,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "505-华丽复古-复古.aep",
+         "fullname" : "华丽复古",
+         "hot" : 0,
+         "iconPC" : "supersound_retro_background.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "复古",
+         "sid" : 505,
+         "top" : 1,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "506-开阔款音-宽音.aep",
+         "fullname" : "开阔款音",
+         "hot" : 0,
+         "iconPC" : "supersound_wide_background.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "宽音",
+         "sid" : 506,
+         "top" : 1,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "古典、轻音乐和民谣的另一番风味",
+         "filename" : "004-黑胶-黑胶.aep",
+         "fullname" : "黑胶",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/heijiao.png",
+         "ir" : {
+            "irs\\679a81d912ae4cb5c9d208fd03061aa4b4a622fa.enc" : 430316,
+            "irs\\de36ef18f951b510b071f0c1b696327eeccfc5f7.enc" : 996244
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "黑胶",
+         "sid" : 4,
+         "top" : 0,
+         "version" : 3
+      },
+      {
+         "debug" : 0,
+         "description" : "怀旧唱机",
+         "filename" : "014-留声机-唱机.aep",
+         "fullname" : "留声机",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/liushengji.png",
+         "ir" : {
+            "irs\\679a81d912ae4cb5c9d208fd03061aa4b4a622fa.enc" : 430316,
+            "irs\\de36ef18f951b510b071f0c1b696327eeccfc5f7.enc" : 996244
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "唱机",
+         "sid" : 14,
+         "top" : 0,
+         "version" : 3
+      },
+      {
+         "debug" : 0,
+         "description" : "灵动旋律",
+         "filename" : "015-清澈旋律-清律.aep",
+         "fullname" : "清澈旋律",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/lingdongxuanlv.png",
+         "ir" : {
+            "irs\\f11a9f4cf5aacc0ee807a14427ac63cd65841767.enc" : 131108
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "清律",
+         "sid" : 15,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "民谣",
+         "filename" : "009-民谣-民谣.aep",
+         "fullname" : "民谣",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/minyao.png",
+         "ir" : {
+            "irs\\43e714f5c19994239908b83b3c494225079b7605.enc" : 600
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "民谣",
+         "sid" : 9,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "农村包围城市",
+         "filename" : "016-3D音效-旋转.aep",
+         "fullname" : "3D音效",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/3dyinxiao.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "旋转",
+         "sid" : 16,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "超高保真",
+         "filename" : "013-超高保真-超保.aep",
+         "fullname" : "超高保真",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/chaogaobaozhen.png",
+         "ir" : {
+            "irs\\d8d31861ef720e7ebe5d30fad4ba2dea68bbee41.enc" : 4184
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "超保",
+         "sid" : 13,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "震撼低音",
+         "filename" : "017-震撼低音-震撼.aep",
+         "fullname" : "震撼低音",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/zhenhandiyin.png",
+         "ir" : {
+            "irs\\c2e6f77802083d99658e46126b64fd0eeb2a12f2.enc" : 32856
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "震撼",
+         "sid" : 17,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "下潜的低音",
+         "filename" : "000-极重低音-极低.aep",
+         "fullname" : "极重低音",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/XBzhongdiyin.png",
+         "ir" : {
+            "irs\\fae6b7a7ebcd6c4bfda2ff6807f0a5ca71048be0.enc" : 12824
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "极低",
+         "sid" : 0,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "012-复合低音-合低.aep",
+         "fullname" : "复合低音",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/fuhediyin.png",
+         "ir" : {
+            "irs\\b7c9156c947c4af96e2edde9abf58b3a1a29e932.enc" : 8236,
+            "irs\\d8d31861ef720e7ebe5d30fad4ba2dea68bbee41.enc" : 4184
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "合低",
+         "sid" : 12,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "品味低音的线条",
+         "filename" : "010-流动低音-流低.aep",
+         "fullname" : "流动低音",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/liudongdiyin.png",
+         "ir" : {
+            "irs\\4d11b1cd25bd08e131e79b2b1736b71c6f18828b.enc" : 131144
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "流低",
+         "sid" : 10,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "高清现场环绕",
+         "filename" : "011-现场环绕-场绕.aep",
+         "fullname" : "现场环绕",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/xianchanghuanrao.png",
+         "ir" : {
+            "irs\\6f7ed6744ad0f47c6bf73d001b65c1531b47a388.enc" : 131116
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "场绕",
+         "sid" : 11,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "经典的差分环绕",
+         "filename" : "001-差分环绕-环绕.aep",
+         "fullname" : "差分环绕",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/chafenhuanrao.png",
+         "ir" : {
+            "irs\\8da782aafdc5174e9b8e838c57e2a31d2db9f6a3.enc" : 143636
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "环绕",
+         "sid" : 1,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "人声转，伴奏宽",
+         "filename" : "002-3D人声-3D.aep",
+         "fullname" : "3D人声",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/3drensheng.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "3D",
+         "sid" : 2,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "008-小编制-小编.aep",
+         "fullname" : "小编制",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/xiaobianzhi.png",
+         "ir" : {
+            "irs\\36af30f920f0e3f00232ff24b1b7847b2c006198.enc" : 131108
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "小编",
+         "sid" : 8,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "录音棚品质环绕",
+         "filename" : "007-录音棚环绕-棚绕.aep",
+         "fullname" : "录音棚环绕",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/luyinpenghuanrao.png",
+         "ir" : {
+            "irs\\2f823376fa7e63ef5a9b70f7443c19793811bb0e.enc" : 65624
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "棚绕",
+         "sid" : 7,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "050-KTV房间-KTV.aep",
+         "fullname" : "KTV房间",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/KTV.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "KTV",
+         "sid" : 50,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "051-浴室-浴室.aep",
+         "fullname" : "浴室",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/yushi.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "浴室",
+         "sid" : 51,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "052-起居室-居室.aep",
+         "fullname" : "起居室",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/qijushi.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "居室",
+         "sid" : 52,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "053-音乐厅-乐厅.aep",
+         "fullname" : "音乐厅",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/yinyuetin.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "乐厅",
+         "sid" : 53,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "054-小巷子-巷子.aep",
+         "fullname" : "小巷子",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/xiaoxiangzi.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "巷子",
+         "sid" : 54,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "055-停车场-停车.aep",
+         "fullname" : "停车场",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/tingchechang.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "停车",
+         "sid" : 55,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "056-厨房-厨房.aep",
+         "fullname" : "厨房",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/chufang.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "厨房",
+         "sid" : 56,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "057-健身房-健身.aep",
+         "fullname" : "健身房",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/jianshengfang.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "健身",
+         "sid" : 57,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "058-工作室-工作.aep",
+         "fullname" : "工作室",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/gongzuoshi.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "工作",
+         "sid" : 58,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "059-自习室-自习.aep",
+         "fullname" : "自习室",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/zixishi.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "自习",
+         "sid" : 59,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "060-地铁-地铁.aep",
+         "fullname" : "地铁",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/ditie.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 1,
+            "ios" : 1,
+            "pc" : 1
+         },
+         "shortname" : "地铁",
+         "sid" : 60,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "061-图书馆-看书.aep",
+         "fullname" : "图书馆",
+         "hot" : 0,
+         "iconOthers" : "http://dldir1.qq.com/music/clntupate/ss2/audioeffectIco/tushuguan.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 1
+         },
+         "shortname" : "看书",
+         "sid" : 61,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "800-全景环绕（旧）-全景.aep",
+         "fullname" : "全景环绕（旧）",
+         "hot" : 0,
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 0
+         },
+         "shortname" : "全景",
+         "sid" : 800,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "801-超重低音（旧）-超低.aep",
+         "fullname" : "超重低音（旧）",
+         "hot" : 0,
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 0
+         },
+         "shortname" : "超低",
+         "sid" : 801,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "802-清澈人声（旧）-清澈.aep",
+         "fullname" : "清澈人声（旧）",
+         "hot" : 0,
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 0
+         },
+         "shortname" : "清澈",
+         "sid" : 802,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "803-温暖轻柔（旧）-轻柔.aep",
+         "fullname" : "温暖轻柔（旧）",
+         "hot" : 0,
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 0
+         },
+         "shortname" : "轻柔",
+         "sid" : 803,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "804-现场律动（旧）-现场.aep",
+         "fullname" : "现场律动（旧）",
+         "hot" : 0,
+         "ir" : {
+            "irs\\742156792c2f7c863b9d5cec1cd0622546a1f877.enc" : 1570744
+         },
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 0
+         },
+         "shortname" : "现场",
+         "sid" : 804,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "805-华丽复古（旧）-复古.aep",
+         "fullname" : "华丽复古（旧）",
+         "hot" : 0,
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 0
+         },
+         "shortname" : "复古",
+         "sid" : 805,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "806-开阔款音（旧）-宽音.aep",
+         "fullname" : "开阔款音（旧）",
+         "hot" : 0,
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 0
+         },
+         "shortname" : "宽音",
+         "sid" : 806,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "",
+         "filename" : "807-人头耳机-人头.aep",
+         "fullname" : "人头耳机",
+         "hot" : 0,
+         "iconPC" : "supersound_headphone_background.png",
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 1
+         },
+         "shortname" : "人头",
+         "sid" : 807,
+         "top" : 1,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "997Lite(995)",
+         "filename" : "995-明星音效Lite-明LE.aep",
+         "fullname" : "明星音效Lite",
+         "hot" : 0,
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 0
+         },
+         "shortname" : "明LE",
+         "sid" : 995,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "997",
+         "filename" : "997-明星音效-明星.aep",
+         "fullname" : "明星音效",
+         "hot" : 0,
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 0
+         },
+         "shortname" : "明星",
+         "sid" : 997,
+         "top" : 0,
+         "version" : 2
+      },
+      {
+         "debug" : 0,
+         "description" : "998-V3",
+         "filename" : "998-设备音效-设备.aep",
+         "fullname" : "设备音效",
+         "hot" : 0,
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 0
+         },
+         "shortname" : "设备",
+         "sid" : 998,
+         "top" : 0,
+         "version" : 3
+      },
+      {
+         "debug" : 1,
+         "description" : "",
+         "filename" : "999-编辑状态-编辑.aep",
+         "fullname" : "编辑状态",
+         "hot" : 0,
+         "new" : 0,
+         "platform" : {
+            "android" : 0,
+            "ios" : 0,
+            "pc" : 1
+         },
+         "shortname" : "编辑",
+         "sid" : 999,
+         "top" : 0,
+         "version" : 2
+      }
+   ],
+   "version" : 48072
+}
